@@ -1,3 +1,5 @@
+# This repo is cloned see bellow
+
 # `pubchem.rs` [![Star me](https://img.shields.io/github/stars/althonos/pubchem.rs.svg?style=social&label=Star&maxAge=3600)](https://github.com/althonos/pubchem.rs/stargazers)
 
 *Rust data structures and client for the [PubChem](https://pubchem.ncbi.nlm.nih.gov/) [REST API](https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest).*
